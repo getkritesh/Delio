@@ -1,0 +1,32 @@
+{
+    "lendRates": [
+        {
+            "apy": 0.104713,    // Annual Percentage Rate, multiplier format
+            "apr": 0.1,         // Annual Percentage Yield, multiplier format
+            "tokenSymbol": "BTC" // a symbol of listed currency (3 or 4 capital letters)
+        },
+         {
+            "apy": 0.104713,    // Annual Percentage Rate, multiplier format
+            "apr": 0.1,         // Annual Percentage Yield, multiplier format
+            "tokenSymbol": "ETH" // a symbol of listed currency (3 or 4 capital letters)
+        },        {
+            "apy": 0.104713,    // Annual Percentage Rate, multiplier format
+            "apr": 0.1,         // Annual Percentage Yield, multiplier format
+            "tokenSymbol": "USDT" // a symbol of listed currency (3 or 4 capital letters)
+        },
+        {
+            "apy": 0.104713,    // Annual Percentage Rate, multiplier format
+            "apr": 0.1,         // Annual Percentage Yield, multiplier format
+            "tokenSymbol": "DAI" // a symbol of listed currency (3 or 4 capital letters)
+        },    
+        ...
+    ],
+    "borrowRates": [
+        {
+            "apy": 0.172271,
+            "apr": 0.16000,
+            "tokenSymbol": "BTC"
+        },
+        ...
+    ]
+}
